@@ -1,4 +1,4 @@
 # javaScriptClasses_zeroToIntermediate
 
 # Note : 
-Please check index.html file first and see <script> tag , then only jump to classes.js files...
+Please check the index.html file first and review the <script> tag before moving on to the classes.js file.
